@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Talent Engagement">62af2a60130e4780cb92b7a66144b045</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>tlWeyer</sys_created_by>
+        <sys_created_on>2017-10-23 14:24:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3cefaa60130e4780cb92b7a66144b036</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Talent Engagement.catalog_talent_engagement</sys_name>
+        <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_talent_engagement">bcefaa60130e4780cb92b7a66144b035</sys_portal_page>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_3cefaa60130e4780cb92b7a66144b036</sys_update_name>
+        <sys_updated_by>tlWeyer</sys_updated_by>
+        <sys_updated_on>2017-10-23 14:24:50</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="627c4b9313b1c380cb92b7a66144b0b0" sys_domain="global" table="x_ahho_talent_eng_target_audience" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-10-19 19:17:21</sys_created_on>
+            <sys_id>ea7c4b9313b1c380cb92b7a66144b0b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_talent_eng_target_audience" sys_domain="global" view="Default view">627c4b9313b1c380cb92b7a66144b0b0</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-10-19 19:17:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order</element>
+            <position>1</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-10-19 19:23:21</sys_created_on>
+            <sys_id>d6dd43d313b1c380cb92b7a66144b0df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_talent_eng_target_audience" sys_domain="global" view="Default view">627c4b9313b1c380cb92b7a66144b0b0</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-10-19 19:23:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>2</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-10-19 19:28:50</sys_created_on>
+            <sys_id>be1f071713b1c380cb92b7a66144b060</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_talent_eng_target_audience" sys_domain="global" view="Default view">627c4b9313b1c380cb92b7a66144b0b0</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-10-19 19:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_ahho_talent_eng_target_audience</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-10-19 19:17:21</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>627c4b9313b1c380cb92b7a66144b0b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_ahho_talent_eng_target_audience</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
+            <sys_update_name>sys_ui_section_627c4b9313b1c380cb92b7a66144b0b0</sys_update_name>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-10-19 19:17:21</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

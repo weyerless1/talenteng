@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_both</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="Associate Communication">6befea60130e4780cb92b7a66144b03d</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p style="color: #75787b; margin: 0px 0px 10px; text-align: left;"><span class="ms-rteThemeForeColor-9-0" style="color: #ce0037;"><strong>To ensure the proper use of the company's email system and&nbsp;ensure timely, consistent and appropriate communications, associates m</strong><strong>ust send all mass email communication requests to the internal communications team for distribution.&nbsp;</strong></span></p>
+<p style="color: #75787b; margin: 0px 0px 10px; text-align: left;"><span class="ms-rteThemeForeColor-2-0">To help us manage and prioritize our communication projects, please allow a minimum of one week's notice prior to your communication due date.</span></p>
+<p style="color: #75787b; margin: 0px 0px 10px; text-align: left;"><span class="ms-rteThemeForeColor-2-0">Urgent email communications that need&nbsp;to be distributed the same day must be requested <strong>by noon of that day</strong>. If an email is urgent and a member of the Talent Engagement/Internal Communications team&nbsp;is not available, the message can be sent by a Central Office Executive Assistant.</span></p>
+<p><span class="ms-rteStyle-Emphasis" style="color: #0082ba; text-align: left;"><span class="ms-rteThemeForeColor-2-0">Please complete the Internal Communication Request Form below to request the development and distribution of internal communications related to company and organizational news, updates and announcements.&nbsp; </span></span><span class="ms-rteThemeForeColor-2-0" style="text-align: left;"><strong>Please complete as much of the form as you can - the sections with red asterisk&nbsp;are required.</strong></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></description>
+        <entitlement_script/>
+        <group/>
+        <icon/>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Associate communication</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("./com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=5e323224130e4780cb92b7a66144b02c&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <roles/>
+        <sc_catalogs>62af2a60130e4780cb92b7a66144b045</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script><![CDATA[producer.redirect = "catalog_home.do?sysparm_catalog=";]]></script>
+        <short_description/>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>tlWeyer</sys_created_by>
+        <sys_created_on>2017-10-23 14:35:03</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>5e323224130e4780cb92b7a66144b02c</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Associate communication</sys_name>
+        <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
+        <sys_update_name>sc_cat_item_producer_5e323224130e4780cb92b7a66144b02c</sys_update_name>
+        <sys_updated_by>tlWeyer</sys_updated_by>
+        <sys_updated_on>2017-10-23 19:41:31</sys_updated_on>
+        <table_name>x_ahho_talent_eng_comm_request</table_name>
+        <template/>
+        <type>item</type>
+        <u_software_ci/>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=5e323224130e4780cb92b7a66144b02c"/>
+    <fx_price action="delete_multiple" query="id=5e323224130e4780cb92b7a66144b02c"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>5e323224130e4780cb92b7a66144b02c</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>tlWeyer</sys_created_by>
+        <sys_created_on>2017-10-23 14:35:03</sys_created_on>
+        <sys_id>1e323224130e4780cb92b7a66144b02d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>tlWeyer</sys_updated_by>
+        <sys_updated_on>2017-10-23 14:35:03</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>5e323224130e4780cb92b7a66144b02c</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>tlWeyer</sys_created_by>
+        <sys_created_on>2017-10-23 14:35:03</sys_created_on>
+        <sys_id>5a323224130e4780cb92b7a66144b02e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>tlWeyer</sys_updated_by>
+        <sys_updated_on>2017-10-23 14:35:03</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
