@@ -5,7 +5,7 @@
         <availability>on_both</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
-        <category display_value="Associate Communication">6befea60130e4780cb92b7a66144b03d</category>
+        <category display_value="Talent Engagement">6befea60130e4780cb92b7a66144b03d</category>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan/>
@@ -48,7 +48,10 @@
         <sc_catalogs>62af2a60130e4780cb92b7a66144b045</sc_catalogs>
         <sc_ic_item_staging/>
         <sc_ic_version/>
-        <script><![CDATA[producer.redirect = "catalog_home.do?sysparm_catalog=";]]></script>
+        <script><![CDATA[//current.assignment_group.setDisplayValue('Talent Engagement');
+current.request_type = 1;  // communication
+
+producer.redirect = "catalog_home.do?sysparm_catalog=";]]></script>
         <short_description/>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
@@ -57,7 +60,7 @@
         <sys_created_on>2017-10-23 14:35:03</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>5e323224130e4780cb92b7a66144b02c</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Associate communication</sys_name>
         <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
         <sys_policy/>
@@ -65,7 +68,7 @@
         <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
         <sys_update_name>sc_cat_item_producer_5e323224130e4780cb92b7a66144b02c</sys_update_name>
         <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2017-10-23 19:41:31</sys_updated_on>
+        <sys_updated_on>2017-10-30 14:59:49</sys_updated_on>
         <table_name>x_ahho_talent_eng_comm_request</table_name>
         <template/>
         <type>item</type>

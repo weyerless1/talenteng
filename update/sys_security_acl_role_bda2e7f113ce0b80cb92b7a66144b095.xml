@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>tlWeyer</sys_created_by>
+        <sys_created_on>2017-10-27 15:19:03</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>bda2e7f113ce0b80cb92b7a66144b095</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_ahho_talent_eng_question.x_ahho_talent_eng.user</sys_name>
+        <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
+        <sys_security_acl display_value="x_ahho_talent_eng_question">f5a2e7f113ce0b80cb92b7a66144b092</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bda2e7f113ce0b80cb92b7a66144b095</sys_update_name>
+        <sys_updated_by>tlWeyer</sys_updated_by>
+        <sys_updated_on>2017-10-27 15:19:03</sys_updated_on>
+        <sys_user_role display_value="x_ahho_talent_eng.user" name="x_ahho_talent_eng.user">63e3ee971331c380cb92b7a66144b034</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

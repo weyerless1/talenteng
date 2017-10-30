@@ -16,14 +16,14 @@
         <short_description>Survey, events, and recognition</short_description>
         <size>md</size>
         <sp_column display_value="2">36e02728138e4780cb92b7a66144b0a0</sp_column>
-        <sp_page/>
+        <sp_page display_value="talent_engagement">45f787e4134e4780cb92b7a66144b0b4</sp_page>
         <sp_widget display_value="Cond Icon Link">626ed7f5931122003706dfa5e57ffb58</sp_widget>
         <sys_class_name>sp_instance_link</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-10-23 19:48:31</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>02f933a813ce4780cb92b7a66144b009</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Associate Engagement and Recognition</sys_name>
         <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
         <sys_policy/>
@@ -31,10 +31,10 @@
         <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
         <sys_update_name>sp_instance_link_02f933a813ce4780cb92b7a66144b009</sys_update_name>
         <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2017-10-23 19:53:09</sys_updated_on>
+        <sys_updated_on>2017-10-27 17:31:39</sys_updated_on>
         <title>Associate Engagement and Recognition</title>
-        <type>page</type>
-        <url/>
+        <type>url</type>
+        <url>talent_engage?id=sc_cat_item&amp;sys_id=de83a73513ce0b80cb92b7a66144b0bd</url>
         <widget_parameters/>
     </sp_instance_link>
 </record_update>

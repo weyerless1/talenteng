@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="INSERT_OR_UPDATE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value/>
+        <default_value_override>false</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>priority</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>x_ahho_talent_eng_comm_request</name>
+        <read_only>false</read_only>
+        <read_only_override>true</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>tlWeyer</sys_created_by>
+        <sys_created_on>2017-10-30 15:51:51</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>81d60fbe1302cb80cb92b7a66144b09f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>priority</sys_name>
+        <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
+        <sys_update_name>sys_dictionary_override_81d60fbe1302cb80cb92b7a66144b09f</sys_update_name>
+        <sys_updated_by>tlWeyer</sys_updated_by>
+        <sys_updated_on>2017-10-30 15:51:51</sys_updated_on>
+    </sys_dictionary_override>
+</record_update>
