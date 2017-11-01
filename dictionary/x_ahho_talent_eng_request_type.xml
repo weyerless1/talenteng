@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Request type" max_length="40" name="x_ahho_talent_eng_request_type" type="collection">
+        <element default="True" label="Active" max_length="40" name="active" type="boolean"/>
+        <element choice="1" choice_field="category" choice_table="x_ahho_talent_eng_comm_request" label="Category" max_length="40" name="category" type="string">
+            <choice/>
+        </element>
+        <element label="Name" mandatory="true" max_length="100" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Order" max_length="40" name="order" type="integer"/>
+    </element>
+</database>

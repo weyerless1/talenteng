@@ -8,7 +8,7 @@
         <glyph/>
         <id/>
         <order>0</order>
-        <short_description>Talent Engagement provides associate engagement, recognition, and internal communications development, consulting and collaboration.</short_description>
+        <short_description>The Talent Engagement team can assist with associate-facing communications and associate engagement and recognition programs.</short_description>
         <size>md</size>
         <sp_column display_value="1">083e5364138e4780cb92b7a66144b0bf</sp_column>
         <sp_widget display_value="Homepage Non Search">3b985ba113d1b600cb92b7a66144b0ad</sp_widget>
@@ -17,7 +17,7 @@
         <sys_created_on>2017-10-26 20:06:45</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>62ea976d13460b80cb92b7a66144b0a8</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Talent Engagement</sys_name>
         <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
         <sys_policy/>
@@ -25,7 +25,7 @@
         <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
         <sys_update_name>sp_instance_62ea976d13460b80cb92b7a66144b0a8</sys_update_name>
         <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2017-10-26 20:19:13</sys_updated_on>
+        <sys_updated_on>2017-11-01 18:25:02</sys_updated_on>
         <title>Talent Engagement</title>
         <url/>
         <widget_parameters/>
