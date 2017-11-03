@@ -21,7 +21,7 @@
         <field/>
         <global>false</global>
         <help_tag>More information</help_tag>
-        <help_text>What kind of request is this? How would you like your message distributed? (You can select multiple)</help_text>
+        <help_text>Communication distribution method(s) desired. (multiple channels may be selected)</help_text>
         <include_none>false</include_none>
         <instructions/>
         <layout>normal</layout>
@@ -40,7 +40,7 @@
         <order>350</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>Communication channel</question_text>
+        <question_text>Communication channel(s)</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
@@ -60,15 +60,15 @@
         <sys_created_on>2017-10-23 14:35:04</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>6232b264130e4780cb92b7a66144b034</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Communication channel</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Communication channel(s)</sys_name>
         <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
         <sys_update_name>item_option_new_6232b264130e4780cb92b7a66144b034</sys_update_name>
         <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2017-10-24 17:40:18</sys_updated_on>
+        <sys_updated_on>2017-11-02 15:34:43</sys_updated_on>
         <table/>
         <tooltip/>
         <type>21</type>

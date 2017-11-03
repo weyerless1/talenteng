@@ -17,8 +17,6 @@
         <element label="Communication channel" max_length="200" name="comm_channel" reference="x_ahho_talent_eng_channel" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="glide_list"/>
         <element label="Communication content" max_length="4000" name="content" type="string"/>
         <element default="javascript:gs.getUserID()" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Requested for" max_length="32" name="requested_for" reference="sys_user" type="reference" use_dynamic_default="true"/>
-        <element choice="1" label="Request type" max_length="40" name="request_type" type="choice">
-            <choice/>
-        </element>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" dependent="category" dependent_on_field="category" label="Request type" max_length="40" name="request_type" reference="x_ahho_talent_eng_request_type" reference_qual="javascript:'active=true^category ='+ current.category;" type="reference" use_dependent_field="true" use_reference_qualifier="advanced"/>
     </element>
 </database>

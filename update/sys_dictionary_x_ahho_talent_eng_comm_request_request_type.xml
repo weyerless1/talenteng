@@ -6,13 +6,13 @@
         <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
-        <calculation>(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
+        <calculation>(function calculatedFieldValue(current) {&#13;
+&#13;
+	// Add your code here&#13;
+	return '';  // return the calculated value&#13;
+&#13;
 })(current);</calculation>
-        <choice>1</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label>Request type</column_label>
@@ -21,8 +21,8 @@
         <default_value/>
         <defaultsort/>
         <delete_roles/>
-        <dependent/>
-        <dependent_on_field/>
+        <dependent>category</dependent>
+        <dependent_on_field>category</dependent_on_field>
         <display>false</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
@@ -31,7 +31,7 @@
         <element>request_type</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <internal_type display_value="Choice">choice</internal_type>
+        <internal_type display_value="Reference">reference</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_ahho_talent_eng_comm_request</name>
@@ -39,11 +39,11 @@
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference/>
+        <reference display_value="" name="x_ahho_talent_eng_request_type">x_ahho_talent_eng_request_type</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
-        <reference_qual/>
+        <reference_qual>javascript:'active=true^category ='+ current.category;</reference_qual>
         <reference_qual_condition/>
         <reference_type/>
         <sizeclass/>
@@ -54,7 +54,7 @@
         <sys_created_on>2017-10-30 14:43:43</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>30173a361302cb80cb92b7a66144b066</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>Request type</sys_name>
         <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
         <sys_policy/>
@@ -62,13 +62,13 @@
         <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
         <sys_update_name>sys_dictionary_x_ahho_talent_eng_comm_request_request_type</sys_update_name>
         <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2017-10-30 14:43:43</sys_updated_on>
+        <sys_updated_on>2017-11-02 18:59:06</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
-        <use_dependent_field>false</use_dependent_field>
+        <use_dependent_field>true</use_dependent_field>
         <use_dynamic_default>false</use_dynamic_default>
-        <use_reference_qualifier>simple</use_reference_qualifier>
+        <use_reference_qualifier>advanced</use_reference_qualifier>
         <virtual>false</virtual>
         <widget/>
         <write_roles/>

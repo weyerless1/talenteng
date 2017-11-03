@@ -2,7 +2,7 @@
 <record_update table="sc_cat_item_producer">
     <sc_cat_item_producer action="INSERT_OR_UPDATE">
         <active>true</active>
-        <availability>on_both</availability>
+        <availability>on_desktop</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
         <category display_value="Talent Engagement">6befea60130e4780cb92b7a66144b03d</category>
@@ -11,10 +11,7 @@
         <delivery_plan/>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
-        <description><![CDATA[<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">All mass email associate communication requests must be sent to the internal communications team for distribution using this form. </span></p>
-<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Please allow a minimum of one week&rsquo;s notice prior to your communication due date. Urgent email communications that need to be sent same-day must be requested by 10am that day. </span></p>
-<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Please complete the Internal Communication Request Form below to request development and distribution of associate-facing communications. Please provide as much information as possible; sections with red asterisk are required field.</span></p>
-<p>&nbsp;</p>]]></description>
+        <description/>
         <entitlement_script/>
         <group/>
         <icon/>
@@ -27,7 +24,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>Associate communication</name>
+        <name>Associate engagement and recognition</name>
         <no_cart>false</no_cart>
         <no_order>false</no_order>
         <no_order_now>false</no_order_now>
@@ -38,7 +35,7 @@
         <order>0</order>
         <ordered_item_link/>
         <picture/>
-        <preview>JavaScript: popupOpenStandard("./com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=5e323224130e4780cb92b7a66144b02c&amp;sysparm_preview=true", "summary");</preview>
+        <preview>JavaScript: popupOpenStandard("./com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=8e40df3f13c64f80cb92b7a66144b08d&amp;sysparm_preview=true", "summary");</preview>
         <price>0</price>
         <recurring_frequency/>
         <recurring_price>0</recurring_price>
@@ -47,26 +44,25 @@
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <script><![CDATA[current.assignment_group.setDisplayValue('Talent Engagement');
-current.category = 1;  // communication
 
-producer.redirect = "catalog_home.do?sysparm_catalog=";]]></script>
-        <short_description/>
+producer.redirect = "catalog_home.do?sysparm_catalog=62af2a60130e4780cb92b7a66144b045";]]></script>
+        <short_description>Associate engagement and recognition</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
-        <sys_created_on>2017-10-23 14:35:03</sys_created_on>
+        <sys_created_on>2017-11-02 19:06:38</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>5e323224130e4780cb92b7a66144b02c</sys_id>
-        <sys_mod_count>9</sys_mod_count>
-        <sys_name>Associate communication</sys_name>
+        <sys_id>8e40df3f13c64f80cb92b7a66144b08d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Associate engagement and recognition</sys_name>
         <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
-        <sys_update_name>sc_cat_item_producer_5e323224130e4780cb92b7a66144b02c</sys_update_name>
+        <sys_update_name>sc_cat_item_producer_8e40df3f13c64f80cb92b7a66144b08d</sys_update_name>
         <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2017-11-02 17:59:30</sys_updated_on>
+        <sys_updated_on>2017-11-02 19:08:40</sys_updated_on>
         <table_name>x_ahho_talent_eng_comm_request</table_name>
         <template/>
         <type>item</type>
@@ -79,22 +75,22 @@ producer.redirect = "catalog_home.do?sysparm_catalog=";]]></script>
         <visible_standalone>true</visible_standalone>
         <workflow/>
     </sc_cat_item_producer>
-    <sys_translated_text action="delete_multiple" query="documentkey=5e323224130e4780cb92b7a66144b02c"/>
-    <fx_price action="delete_multiple" query="id=5e323224130e4780cb92b7a66144b02c"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=8e40df3f13c64f80cb92b7a66144b08d"/>
+    <fx_price action="delete_multiple" query="id=8e40df3f13c64f80cb92b7a66144b08d"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price</field>
-        <id>5e323224130e4780cb92b7a66144b02c</id>
+        <id>8e40df3f13c64f80cb92b7a66144b08d</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>tlWeyer</sys_created_by>
-        <sys_created_on>2017-10-23 14:35:03</sys_created_on>
-        <sys_id>1e323224130e4780cb92b7a66144b02d</sys_id>
+        <sys_created_on>2017-11-02 19:06:38</sys_created_on>
+        <sys_id>ca40df3f13c64f80cb92b7a66144b08e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2017-10-23 14:35:03</sys_updated_on>
+        <sys_updated_on>2017-11-02 19:06:38</sys_updated_on>
         <table>sc_cat_item_producer</table>
         <type>calculated</type>
     </fx_price>
@@ -102,16 +98,16 @@ producer.redirect = "catalog_home.do?sysparm_catalog=";]]></script>
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>recurring_price</field>
-        <id>5e323224130e4780cb92b7a66144b02c</id>
+        <id>8e40df3f13c64f80cb92b7a66144b08d</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>tlWeyer</sys_created_by>
-        <sys_created_on>2017-10-23 14:35:03</sys_created_on>
-        <sys_id>5a323224130e4780cb92b7a66144b02e</sys_id>
+        <sys_created_on>2017-11-02 19:06:38</sys_created_on>
+        <sys_id>8e40df3f13c64f80cb92b7a66144b08f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2017-10-23 14:35:03</sys_updated_on>
+        <sys_updated_on>2017-11-02 19:06:38</sys_updated_on>
         <table>sc_cat_item_producer</table>
         <type>calculated</type>
     </fx_price>

@@ -21,7 +21,7 @@
         <field/>
         <global>false</global>
         <help_tag>More information</help_tag>
-        <help_text>Date project is due or date communication needs to be distributed</help_text>
+        <help_text>Project due date or communication distribution date</help_text>
         <include_none>false</include_none>
         <instructions/>
         <layout>normal</layout>
@@ -60,7 +60,7 @@
         <sys_created_on>2017-10-23 14:54:04</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>4c66f268130e4780cb92b7a66144b014</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Due date</sys_name>
         <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
         <sys_policy/>
@@ -68,7 +68,7 @@
         <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
         <sys_update_name>item_option_new_4c66f268130e4780cb92b7a66144b014</sys_update_name>
         <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2017-10-27 18:45:36</sys_updated_on>
+        <sys_updated_on>2017-11-02 15:32:38</sys_updated_on>
         <table/>
         <tooltip/>
         <type>9</type>
