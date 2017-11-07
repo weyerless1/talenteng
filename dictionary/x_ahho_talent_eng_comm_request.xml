@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="Talent Engagement Request" max_length="40" name="x_ahho_talent_eng_comm_request" sizeclass="6" type="collection">
+    <element audit="true" extends="task" label="Talent Engagement Request" max_length="40" name="x_ahho_talent_eng_comm_request" sizeclass="7" type="collection">
         <element choice="1" label="Audience" max_length="40" name="audience" reference="x_ahho_talent_eng_target_audience" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="glide_list">
             <choice/>
         </element>

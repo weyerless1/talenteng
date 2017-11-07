@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_in_email_action">
+    <sysevent_in_email_action action="INSERT_OR_UPDATE">
+        <action>record_action</action>
+        <active>true</active>
+        <assignment_operator/>
+        <condition_script/>
+        <description/>
+        <event_name>email.read</event_name>
+        <filter_condition/>
+        <from/>
+        <name>TE Request response</name>
+        <order/>
+        <reply_email/>
+        <required_roles/>
+        <script><![CDATA[gs.include('validators');
+
+//Note: current.caller_id and current.opened_by are already set to the first UserID that matches the From: email address
+if (current.getTableName() == "x_ahho_talent_eng_comm_request") {
+    
+	var body = email.body_text;
+    
+    /*
+     * The name of the sender of the message is stored in a property
+     * called glide.email.username. We want to leverage this when
+     * we strip off the original message.
+    **/
+    var system_user_name = gs.getProperty("glide.email.username");
+
+    /*
+     * Now look for the 'From: <System Email>' tag, so we can strip
+     * off the chain.  ( ['F', 'r', 'o', 'm',':', ' '] = 6 )
+    **/ 
+    var beginInbound = body.indexOf(system_user_name) - 6;
+    
+    if(beginInbound >= 0) {
+      // Strip off the original message
+      body = body.substring(0, beginInbound).trim();
+    }
+
+    /*  Other Actions Here */
+
+    current.comments   = 
+               "reply from: " + email.origemail + "\n\n" + body;
+    current.work_notes = 
+               "Inbound Email Response from " + email.origemail;
+
+    current.update();
+}]]></script>
+        <stop_processing>false</stop_processing>
+        <sys_class_name>sysevent_in_email_action</sys_class_name>
+        <sys_created_by>tlWeyer</sys_created_by>
+        <sys_created_on>2017-11-06 16:39:35</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>c980d349131603c0cb92b7a66144b0bd</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>TE Request response</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
+        <sys_update_name>sysevent_in_email_action_c980d349131603c0cb92b7a66144b0bd</sys_update_name>
+        <sys_updated_by>tlWeyer</sys_updated_by>
+        <sys_updated_on>2017-11-06 20:19:34</sys_updated_on>
+        <table>x_ahho_talent_eng_comm_request</table>
+        <template/>
+        <type>reply</type>
+    </sysevent_in_email_action>
+</record_update>
