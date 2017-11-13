@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <attributes/>
         <cat_item display_value="Question">de83a73513ce0b80cb92b7a66144b0bd</cat_item>
         <category/>
@@ -60,7 +60,7 @@
         <sys_created_on>2017-10-27 15:22:55</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>2683a73513ce0b80cb92b7a66144b0c5</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Opened by</sys_name>
         <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
         <sys_policy/>
@@ -68,7 +68,7 @@
         <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
         <sys_update_name>item_option_new_2683a73513ce0b80cb92b7a66144b0c5</sys_update_name>
         <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2017-10-27 18:33:30</sys_updated_on>
+        <sys_updated_on>2017-11-13 14:52:14</sys_updated_on>
         <table/>
         <tooltip/>
         <type>8</type>
