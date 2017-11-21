@@ -3,7 +3,7 @@
     <question_choice action="INSERT_OR_UPDATE">
         <misc>0</misc>
         <order>200</order>
-        <question display_value="Category">0342abfb130a4f80cb92b7a66144b0c9</question>
+        <question display_value="Please select the category of the request">0342abfb130a4f80cb92b7a66144b0c9</question>
         <rec_misc>0</rec_misc>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>

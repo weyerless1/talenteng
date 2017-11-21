@@ -21,7 +21,7 @@
         <field/>
         <global>false</global>
         <help_tag>More information</help_tag>
-        <help_text>Primary contact for the project/communication request</help_text>
+        <help_text/>
         <include_none>false</include_none>
         <instructions/>
         <layout>normal</layout>
@@ -40,7 +40,7 @@
         <order>110</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>Requested for</question_text>
+        <question_text>Who is the primary contact for the project/communication request</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
@@ -51,7 +51,7 @@
         <reference_qual_condition/>
         <scale_max>5</scale_max>
         <scale_min>0</scale_min>
-        <show_help>true</show_help>
+        <show_help>false</show_help>
         <show_help_on_load>true</show_help_on_load>
         <sp_widget/>
         <summary_macro/>
@@ -60,15 +60,15 @@
         <sys_created_on>2017-10-23 14:45:20</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>3c94f228130e4780cb92b7a66144b004</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Requested for</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Who is the primary contact for the project/communication request</sys_name>
         <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
         <sys_update_name>item_option_new_3c94f228130e4780cb92b7a66144b004</sys_update_name>
         <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2017-10-24 17:43:05</sys_updated_on>
+        <sys_updated_on>2017-11-20 16:00:38</sys_updated_on>
         <table/>
         <tooltip/>
         <type>8</type>

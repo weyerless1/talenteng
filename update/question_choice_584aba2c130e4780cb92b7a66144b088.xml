@@ -3,7 +3,7 @@
     <question_choice action="INSERT_OR_UPDATE">
         <misc>0</misc>
         <order>300</order>
-        <question display_value="Priority">8ca63e68130e4780cb92b7a66144b084</question>
+        <question display_value="How urgent is this project/communication?">8ca63e68130e4780cb92b7a66144b084</question>
         <rec_misc>0</rec_misc>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>

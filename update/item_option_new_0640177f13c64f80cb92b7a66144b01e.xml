@@ -40,7 +40,7 @@
         <order>400</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>Description</question_text>
+        <question_text>What is the purpose of this request?</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
@@ -60,15 +60,15 @@
         <sys_created_on>2017-11-02 19:06:38</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>0640177f13c64f80cb92b7a66144b01e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Description</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>What is the purpose of this request?</sys_name>
         <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
         <sys_update_name>item_option_new_0640177f13c64f80cb92b7a66144b01e</sys_update_name>
         <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2017-11-02 19:06:38</sys_updated_on>
+        <sys_updated_on>2017-11-20 15:56:02</sys_updated_on>
         <table/>
         <tooltip/>
         <type>2</type>
