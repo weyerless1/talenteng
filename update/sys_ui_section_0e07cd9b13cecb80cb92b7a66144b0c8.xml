@@ -2,44 +2,44 @@
 <record_update>
     <sys_ui_section caption="" section_id="0e07cd9b13cecb80cb92b7a66144b0c8" sys_domain="global" table="x_ahho_talent_eng_request_type" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element>name</element>
             <position>0</position>
             <sys_created_by>tlWeyer</sys_created_by>
-            <sys_created_on>2017-10-31 19:50:01</sys_created_on>
-            <sys_id>8207cd9b13cecb80cb92b7a66144b0ce</sys_id>
+            <sys_created_on>2017-11-27 19:35:38</sys_created_on>
+            <sys_id>a2a64c8c137a0700cb92b7a66144b04d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_talent_eng_request_type" sys_domain="global" view="Default view">0e07cd9b13cecb80cb92b7a66144b0c8</sys_ui_section>
             <sys_updated_by>tlWeyer</sys_updated_by>
-            <sys_updated_on>2017-10-31 19:50:01</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>name</element>
-            <position>1</position>
-            <sys_created_by>tlWeyer</sys_created_by>
-            <sys_created_on>2017-10-31 19:50:01</sys_created_on>
-            <sys_id>0a07cd9b13cecb80cb92b7a66144b0ce</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_ahho_talent_eng_request_type" sys_domain="global" view="Default view">0e07cd9b13cecb80cb92b7a66144b0c8</sys_ui_section>
-            <sys_updated_by>tlWeyer</sys_updated_by>
-            <sys_updated_on>2017-10-31 19:50:01</sys_updated_on>
+            <sys_updated_on>2017-11-27 19:35:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>category</element>
-            <position>2</position>
+            <position>1</position>
             <sys_created_by>tlWeyer</sys_created_by>
-            <sys_created_on>2017-10-31 19:50:01</sys_created_on>
-            <sys_id>8a07cd9b13cecb80cb92b7a66144b0ce</sys_id>
+            <sys_created_on>2017-11-27 19:35:38</sys_created_on>
+            <sys_id>6aa64c8c137a0700cb92b7a66144b04d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_talent_eng_request_type" sys_domain="global" view="Default view">0e07cd9b13cecb80cb92b7a66144b0c8</sys_ui_section>
             <sys_updated_by>tlWeyer</sys_updated_by>
-            <sys_updated_on>2017-10-31 19:50:01</sys_updated_on>
+            <sys_updated_on>2017-11-27 19:35:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order</element>
+            <position>2</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-11-27 19:35:38</sys_created_on>
+            <sys_id>eaa64c8c137a0700cb92b7a66144b04d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_talent_eng_request_type" sys_domain="global" view="Default view">0e07cd9b13cecb80cb92b7a66144b0c8</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-11-27 19:35:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,27 +47,13 @@
             <element>active</element>
             <position>3</position>
             <sys_created_by>tlWeyer</sys_created_by>
-            <sys_created_on>2017-10-31 19:52:11</sys_created_on>
-            <sys_id>f187c5db13cecb80cb92b7a66144b02c</sys_id>
+            <sys_created_on>2017-11-27 19:35:38</sys_created_on>
+            <sys_id>6ea64c8c137a0700cb92b7a66144b04d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_talent_eng_request_type" sys_domain="global" view="Default view">0e07cd9b13cecb80cb92b7a66144b0c8</sys_ui_section>
             <sys_updated_by>tlWeyer</sys_updated_by>
-            <sys_updated_on>2017-10-31 19:52:11</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>order</element>
-            <position>4</position>
-            <sys_created_by>tlWeyer</sys_created_by>
-            <sys_created_on>2017-10-31 20:07:13</sys_created_on>
-            <sys_id>35fa495f13cecb80cb92b7a66144b007</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_ahho_talent_eng_request_type" sys_domain="global" view="Default view">0e07cd9b13cecb80cb92b7a66144b0c8</sys_ui_section>
-            <sys_updated_by>tlWeyer</sys_updated_by>
-            <sys_updated_on>2017-10-31 20:07:13</sys_updated_on>
+            <sys_updated_on>2017-11-27 19:35:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -31,7 +31,7 @@
         <message/>
         <message_html><![CDATA[<p>The following notes have been added&nbsp;to Talent Engagement Project&nbsp;${number} &ndash; ${short_description}</p>
 <p>Customer Notes: ${comments}</p>
-<p>Request link: ${URI}</p>]]></message_html>
+<p>Request&nbsp;${URI_REF}</p>]]></message_html>
         <message_list/>
         <message_text/>
         <name>Request comments added </name>
@@ -53,7 +53,7 @@
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>18bb5bcd131603c0cb92b7a66144b080</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>Request comments added </sys_name>
         <sys_overrides/>
         <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
@@ -62,7 +62,7 @@
         <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
         <sys_update_name>sysevent_email_action_18bb5bcd131603c0cb92b7a66144b080</sys_update_name>
         <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2017-11-07 16:20:39</sys_updated_on>
+        <sys_updated_on>2017-11-27 19:28:29</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>

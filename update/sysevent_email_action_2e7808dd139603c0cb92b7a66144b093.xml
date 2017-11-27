@@ -32,7 +32,7 @@
         <message_html><![CDATA[<p>The following comments have been added to your question:</p>
 <p>Subject: ${short_description}<br />Question: ${description}</p>
 <p>Customer Notes: ${comments}</p>
-<p>Request link: ${URI}</p>]]></message_html>
+<p>Request&nbsp;${URI_REF}</p>]]></message_html>
         <message_list/>
         <message_text/>
         <name>Question comments added </name>
@@ -54,7 +54,7 @@
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>2e7808dd139603c0cb92b7a66144b093</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Question comments added </sys_name>
         <sys_overrides/>
         <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
@@ -63,7 +63,7 @@
         <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
         <sys_update_name>sysevent_email_action_2e7808dd139603c0cb92b7a66144b093</sys_update_name>
         <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2017-11-06 20:26:15</sys_updated_on>
+        <sys_updated_on>2017-11-27 19:26:59</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
