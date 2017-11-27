@@ -4,17 +4,47 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_ahho_talent_eng_target_audience" element="NULL" name="x_ahho_talent_eng_target_audience" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3e4c4f1313b1c380cb92b7a66144b022</list_id>
+            <list_id display_value="x_ahho_talent_eng_target_audience" element="NULL" name="x_ahho_talent_eng_target_audience" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca0bc84013ba0700cb92b7a66144b03a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>tlWeyer</sys_created_by>
-            <sys_created_on>2017-10-19 19:16:33</sys_created_on>
-            <sys_id>b64c4f1313b1c380cb92b7a66144b023</sys_id>
+            <sys_created_on>2017-11-27 19:54:43</sys_created_on>
+            <sys_id>460bc84013ba0700cb92b7a66144b03b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tlWeyer</sys_updated_by>
-            <sys_updated_on>2017-10-19 19:16:33</sys_updated_on>
+            <sys_updated_on>2017-11-27 19:54:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>order</element>
+            <list_id display_value="x_ahho_talent_eng_target_audience" element="NULL" name="x_ahho_talent_eng_target_audience" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca0bc84013ba0700cb92b7a66144b03a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-11-27 19:54:43</sys_created_on>
+            <sys_id>ca0bc84013ba0700cb92b7a66144b03b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-11-27 19:54:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="x_ahho_talent_eng_target_audience" element="NULL" name="x_ahho_talent_eng_target_audience" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca0bc84013ba0700cb92b7a66144b03a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-11-27 19:54:43</sys_created_on>
+            <sys_id>4e0bc84013ba0700cb92b7a66144b03b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-11-27 19:54:43</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -28,10 +58,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>tlWeyer</sys_created_by>
-            <sys_created_on>2017-10-19 19:29:22</sys_created_on>
+            <sys_created_on>2017-11-27 19:54:43</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_id>ea3f871713b1c380cb92b7a66144b05c</sys_id>
+            <sys_id>ca0bc84013ba0700cb92b7a66144b03a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_ahho_talent_eng_target_audience</sys_name>
             <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
@@ -40,8 +70,8 @@
             <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
             <sys_update_name>sys_ui_list_x_ahho_talent_eng_target_audience_null</sys_update_name>
             <sys_updated_by>tlWeyer</sys_updated_by>
-            <sys_updated_on>2017-10-19 19:29:22</sys_updated_on>
-            <sys_user display_value="Thomas Weyer">6d72457ce0a0010078f2c0e8182e120e</sys_user>
+            <sys_updated_on>2017-11-27 19:54:43</sys_updated_on>
+            <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>

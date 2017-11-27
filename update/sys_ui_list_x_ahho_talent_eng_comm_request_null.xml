@@ -4,107 +4,122 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_ahho_talent_eng_comm_request" element="NULL" name="x_ahho_talent_eng_comm_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bcf8403f133dc380cb92b7a66144b088</list_id>
+            <list_id display_value="x_ahho_talent_eng_comm_request" element="NULL" name="x_ahho_talent_eng_comm_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">060ccc4013ba0700cb92b7a66144b071</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>tlWeyer</sys_created_by>
-            <sys_created_on>2017-10-20 18:20:03</sys_created_on>
-            <sys_id>34f8403f133dc380cb92b7a66144b089</sys_id>
+            <sys_created_on>2017-11-27 19:59:05</sys_created_on>
+            <sys_id>8a0ccc4013ba0700cb92b7a66144b071</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tlWeyer</sys_updated_by>
-            <sys_updated_on>2017-10-20 18:20:03</sys_updated_on>
+            <sys_updated_on>2017-11-27 19:59:05</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>requested_for</element>
-            <list_id display_value="x_ahho_talent_eng_comm_request" element="NULL" name="x_ahho_talent_eng_comm_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bcf8403f133dc380cb92b7a66144b088</list_id>
+            <element>short_description</element>
+            <list_id display_value="x_ahho_talent_eng_comm_request" element="NULL" name="x_ahho_talent_eng_comm_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">060ccc4013ba0700cb92b7a66144b071</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>tlWeyer</sys_created_by>
-            <sys_created_on>2017-10-20 18:20:03</sys_created_on>
-            <sys_id>b4f8403f133dc380cb92b7a66144b089</sys_id>
+            <sys_created_on>2017-11-27 19:59:05</sys_created_on>
+            <sys_id>0e0ccc4013ba0700cb92b7a66144b071</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tlWeyer</sys_updated_by>
-            <sys_updated_on>2017-10-20 18:20:03</sys_updated_on>
+            <sys_updated_on>2017-11-27 19:59:05</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>priority</element>
-            <list_id display_value="x_ahho_talent_eng_comm_request" element="NULL" name="x_ahho_talent_eng_comm_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bcf8403f133dc380cb92b7a66144b088</list_id>
+            <element>state</element>
+            <list_id display_value="x_ahho_talent_eng_comm_request" element="NULL" name="x_ahho_talent_eng_comm_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">060ccc4013ba0700cb92b7a66144b071</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>tlWeyer</sys_created_by>
-            <sys_created_on>2017-10-20 18:20:03</sys_created_on>
-            <sys_id>38f8403f133dc380cb92b7a66144b089</sys_id>
+            <sys_created_on>2017-11-27 19:59:05</sys_created_on>
+            <sys_id>8e0ccc4013ba0700cb92b7a66144b071</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tlWeyer</sys_updated_by>
-            <sys_updated_on>2017-10-20 18:20:03</sys_updated_on>
+            <sys_updated_on>2017-11-27 19:59:05</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>assignment_group</element>
-            <list_id display_value="x_ahho_talent_eng_comm_request" element="NULL" name="x_ahho_talent_eng_comm_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bcf8403f133dc380cb92b7a66144b088</list_id>
+            <element>requested_for</element>
+            <list_id display_value="x_ahho_talent_eng_comm_request" element="NULL" name="x_ahho_talent_eng_comm_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">060ccc4013ba0700cb92b7a66144b071</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>tlWeyer</sys_created_by>
-            <sys_created_on>2017-10-20 18:20:03</sys_created_on>
-            <sys_id>b8f8403f133dc380cb92b7a66144b089</sys_id>
+            <sys_created_on>2017-11-27 19:59:05</sys_created_on>
+            <sys_id>020ccc4013ba0700cb92b7a66144b072</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tlWeyer</sys_updated_by>
-            <sys_updated_on>2017-10-20 18:20:03</sys_updated_on>
+            <sys_updated_on>2017-11-27 19:59:05</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>assigned_to</element>
-            <list_id display_value="x_ahho_talent_eng_comm_request" element="NULL" name="x_ahho_talent_eng_comm_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bcf8403f133dc380cb92b7a66144b088</list_id>
+            <element>priority</element>
+            <list_id display_value="x_ahho_talent_eng_comm_request" element="NULL" name="x_ahho_talent_eng_comm_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">060ccc4013ba0700cb92b7a66144b071</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>tlWeyer</sys_created_by>
-            <sys_created_on>2017-10-20 18:20:03</sys_created_on>
-            <sys_id>3cf8403f133dc380cb92b7a66144b089</sys_id>
+            <sys_created_on>2017-11-27 19:59:05</sys_created_on>
+            <sys_id>820ccc4013ba0700cb92b7a66144b072</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tlWeyer</sys_updated_by>
-            <sys_updated_on>2017-10-20 18:20:03</sys_updated_on>
+            <sys_updated_on>2017-11-27 19:59:05</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>state</element>
-            <list_id display_value="x_ahho_talent_eng_comm_request" element="NULL" name="x_ahho_talent_eng_comm_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bcf8403f133dc380cb92b7a66144b088</list_id>
+            <element>assigned_to</element>
+            <list_id display_value="x_ahho_talent_eng_comm_request" element="NULL" name="x_ahho_talent_eng_comm_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">060ccc4013ba0700cb92b7a66144b071</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>tlWeyer</sys_created_by>
-            <sys_created_on>2017-10-20 18:20:03</sys_created_on>
-            <sys_id>bcf8403f133dc380cb92b7a66144b089</sys_id>
+            <sys_created_on>2017-11-27 19:59:05</sys_created_on>
+            <sys_id>060ccc4013ba0700cb92b7a66144b072</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tlWeyer</sys_updated_by>
-            <sys_updated_on>2017-10-20 18:20:03</sys_updated_on>
+            <sys_updated_on>2017-11-27 19:59:05</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>short_description</element>
-            <list_id display_value="x_ahho_talent_eng_comm_request" element="NULL" name="x_ahho_talent_eng_comm_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bcf8403f133dc380cb92b7a66144b088</list_id>
+            <element>category</element>
+            <list_id display_value="x_ahho_talent_eng_comm_request" element="NULL" name="x_ahho_talent_eng_comm_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">060ccc4013ba0700cb92b7a66144b071</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>tlWeyer</sys_created_by>
-            <sys_created_on>2017-10-20 18:20:03</sys_created_on>
-            <sys_id>30f8403f133dc380cb92b7a66144b08a</sys_id>
+            <sys_created_on>2017-11-27 19:59:05</sys_created_on>
+            <sys_id>ce0c448013ba0700cb92b7a66144b09d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>tlWeyer</sys_updated_by>
-            <sys_updated_on>2017-10-20 18:20:03</sys_updated_on>
+            <sys_updated_on>2017-11-27 19:59:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>request_type</element>
+            <list_id display_value="x_ahho_talent_eng_comm_request" element="NULL" name="x_ahho_talent_eng_comm_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">060ccc4013ba0700cb92b7a66144b071</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-11-27 19:59:05</sys_created_on>
+            <sys_id>420c448013ba0700cb92b7a66144b09e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-11-27 19:59:05</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -118,10 +133,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>tlWeyer</sys_created_by>
-            <sys_created_on>2017-10-20 18:20:03</sys_created_on>
+            <sys_created_on>2017-11-27 19:59:05</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_id>bcf8403f133dc380cb92b7a66144b088</sys_id>
+            <sys_id>060ccc4013ba0700cb92b7a66144b071</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_ahho_talent_eng_comm_request</sys_name>
             <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
@@ -130,7 +145,7 @@
             <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
             <sys_update_name>sys_ui_list_x_ahho_talent_eng_comm_request_null</sys_update_name>
             <sys_updated_by>tlWeyer</sys_updated_by>
-            <sys_updated_on>2017-10-20 18:20:03</sys_updated_on>
+            <sys_updated_on>2017-11-27 19:59:05</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
