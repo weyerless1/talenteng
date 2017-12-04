@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="Associate engagement and recognition">8e40df3f13c64f80cb92b7a66144b08d</catalog_item>
+        <catalog_item display_value="Associate Engagement and Recognition">8e40df3f13c64f80cb92b7a66144b08d</catalog_item>
         <catalog_variable>IO:8a40177f13c64f80cb92b7a66144b036</catalog_variable>
         <disabled>ignore</disabled>
         <field/>

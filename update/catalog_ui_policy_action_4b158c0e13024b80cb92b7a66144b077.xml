@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="Associate communication">5e323224130e4780cb92b7a66144b02c</catalog_item>
+        <catalog_item display_value="Associate Communication">5e323224130e4780cb92b7a66144b02c</catalog_item>
         <catalog_variable>IO:6232b264130e4780cb92b7a66144b03b</catalog_variable>
         <disabled>ignore</disabled>
         <field/>

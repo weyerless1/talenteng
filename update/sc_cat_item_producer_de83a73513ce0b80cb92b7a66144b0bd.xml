@@ -48,7 +48,7 @@
         <script><![CDATA[current.assignment_group.setDisplayValue('Talent Engagement');
 
 producer.redirect = "catalog_home.do?sysparm_catalog=";]]></script>
-        <short_description>Talent Engagement question</short_description>
+        <short_description/>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <sys_class_name>sc_cat_item_producer</sys_class_name>
@@ -56,7 +56,7 @@ producer.redirect = "catalog_home.do?sysparm_catalog=";]]></script>
         <sys_created_on>2017-10-27 15:22:55</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>de83a73513ce0b80cb92b7a66144b0bd</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Question</sys_name>
         <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
         <sys_policy/>
@@ -64,7 +64,7 @@ producer.redirect = "catalog_home.do?sysparm_catalog=";]]></script>
         <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
         <sys_update_name>sc_cat_item_producer_de83a73513ce0b80cb92b7a66144b0bd</sys_update_name>
         <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2017-11-06 20:48:20</sys_updated_on>
+        <sys_updated_on>2017-12-04 17:46:06</sys_updated_on>
         <table_name>x_ahho_talent_eng_question</table_name>
         <template/>
         <type>item</type>

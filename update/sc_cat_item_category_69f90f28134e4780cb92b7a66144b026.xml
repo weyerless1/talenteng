@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="Associate communication">5e323224130e4780cb92b7a66144b02c</sc_cat_item>
+        <sc_cat_item display_value="Associate Communication">5e323224130e4780cb92b7a66144b02c</sc_cat_item>
         <sc_category display_value="Talent Engagement">6befea60130e4780cb92b7a66144b03d</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
