@@ -7,7 +7,7 @@
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-11-06 20:05:48</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>b72480991316cbc0d80074c66144b055</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Glide API: properties</sys_name>

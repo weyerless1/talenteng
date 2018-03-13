@@ -11,7 +11,7 @@
         <logo/>
         <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
         <quick_start_config/>
-        <sc_catalog display_value="Talent Engagement">62af2a60130e4780cb92b7a66144b045</sc_catalog>
+        <sc_catalog display_value="Associate Engagement">62af2a60130e4780cb92b7a66144b045</sc_catalog>
         <sc_catalog_page display_value="talent_engagement">45f787e4134e4780cb92b7a66144b0b4</sc_catalog_page>
         <sp_chat_queue/>
         <sp_rectangle_menu/>
@@ -21,17 +21,17 @@
         <sys_created_on>2017-10-23 16:05:23</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>201647a4134e4780cb92b7a66144b0ed</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Talent Engagement</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Associate Engagement</sys_name>
         <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
         <sys_update_name>sp_portal_201647a4134e4780cb92b7a66144b0ed</sys_update_name>
-        <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2017-10-23 19:07:44</sys_updated_on>
+        <sys_updated_by>rsKatz</sys_updated_by>
+        <sys_updated_on>2018-03-13 18:56:40</sys_updated_on>
         <theme display_value="Stock">79315153cb33310000f8d856634c9c4b</theme>
-        <title>Talent Engagement</title>
+        <title>Associate Engagement</title>
         <url_suffix>talent_engage</url_suffix>
     </sp_portal>
     <sys_attachment action="INSERT_OR_UPDATE">

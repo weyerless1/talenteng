@@ -58,7 +58,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-11-29 15:51:23</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>8d862d6413f28700cb92b7a66144b081</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Who is the primary contact for this request?</sys_name>

@@ -5,7 +5,7 @@
         <availability>on_both</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
-        <category display_value="Talent Engagement">6befea60130e4780cb92b7a66144b03d</category>
+        <category display_value="Associate Engagement">6befea60130e4780cb92b7a66144b03d</category>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan/>
@@ -56,7 +56,7 @@ producer.redirect = "catalog_home.do?sysparm_catalog=";]]></script>
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-10-23 14:35:03</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>5e323224130e4780cb92b7a66144b02c</sys_id>
         <sys_mod_count>10</sys_mod_count>
         <sys_name>Associate Communication</sys_name>

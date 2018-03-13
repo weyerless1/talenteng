@@ -58,7 +58,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-10-27 18:31:12</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>d95e888213424b80cb92b7a66144b04e</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Please upload all relevant attachments (copy documents, visuals, etc.) to the job via "Add attachments".</sys_name>

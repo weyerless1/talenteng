@@ -58,7 +58,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-11-20 15:46:25</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>b9ee4b6113660700cb92b7a66144b05e</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>u_start_3</sys_name>

@@ -2,11 +2,11 @@
 <record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Question">de83a73513ce0b80cb92b7a66144b0bd</sc_cat_item>
-        <sc_category display_value="Talent Engagement">6befea60130e4780cb92b7a66144b03d</sc_category>
+        <sc_category display_value="Associate Engagement">6befea60130e4780cb92b7a66144b03d</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-10-27 17:45:25</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>35240cca13024b80cb92b7a66144b069</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Talent Engagement.Question</sys_name>

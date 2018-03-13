@@ -25,7 +25,7 @@
         <sys_class_name>catalog_ui_policy</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-10-27 17:47:49</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>ec94c40e13024b80cb92b7a66144b014</sys_id>
         <sys_mod_count>0</sys_mod_count>

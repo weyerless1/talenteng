@@ -2,7 +2,7 @@
 <record_update table="sc_catalog_view_mtom">
     <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
         <default>true</default>
-        <sc_catalog display_value="Talent Engagement">62af2a60130e4780cb92b7a66144b045</sc_catalog>
+        <sc_catalog display_value="Associate Engagement">62af2a60130e4780cb92b7a66144b045</sc_catalog>
         <sys_class_name>sc_catalog_view_mtom</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-10-23 14:24:50</sys_created_on>

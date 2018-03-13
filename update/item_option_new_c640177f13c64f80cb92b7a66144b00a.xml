@@ -58,7 +58,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-11-02 19:06:38</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c640177f13c64f80cb92b7a66144b00a</sys_id>
         <sys_mod_count>6</sys_mod_count>
         <sys_name>Requested on behalf of</sys_name>

@@ -9,7 +9,7 @@
         <sys_class_name>sys_ui_application</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-10-19 16:20:14</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>00f3ee971331c380cb92b7a66144b0e5</sys_id>
         <sys_mod_count>0</sys_mod_count>

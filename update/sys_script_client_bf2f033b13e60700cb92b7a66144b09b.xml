@@ -22,7 +22,7 @@
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-11-27 15:35:10</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>bf2f033b13e60700cb92b7a66144b09b</sys_id>
         <sys_mod_count>2</sys_mod_count>

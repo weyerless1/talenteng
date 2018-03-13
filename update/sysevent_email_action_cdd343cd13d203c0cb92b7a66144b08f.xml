@@ -46,7 +46,7 @@
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-11-06 15:24:38</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>cdd343cd13d203c0cb92b7a66144b08f</sys_id>
         <sys_mod_count>4</sys_mod_count>

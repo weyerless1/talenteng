@@ -36,7 +36,7 @@
         <sys_class_name>sys_ui_policy</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-11-07 17:55:39</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>6ebfa46913960300cb92b7a66144b01d</sys_id>
         <sys_mod_count>0</sys_mod_count>

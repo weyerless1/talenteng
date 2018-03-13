@@ -2,11 +2,11 @@
 <record_update table="sc_cat_item_catalog">
     <sc_cat_item_catalog action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Associate Engagement and Recognition">8e40df3f13c64f80cb92b7a66144b08d</sc_cat_item>
-        <sc_catalog display_value="Talent Engagement">62af2a60130e4780cb92b7a66144b045</sc_catalog>
+        <sc_catalog display_value="Associate Engagement">62af2a60130e4780cb92b7a66144b045</sc_catalog>
         <sys_class_name>sc_cat_item_catalog</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-11-02 19:06:38</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4a40df3f13c64f80cb92b7a66144b091</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Talent Engagement.Associate engagement and recognition</sys_name>

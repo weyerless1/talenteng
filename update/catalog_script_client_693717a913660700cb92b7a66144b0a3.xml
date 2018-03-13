@@ -66,7 +66,7 @@
         <sys_class_name>catalog_script_client</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-11-20 16:24:33</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>693717a913660700cb92b7a66144b0a3</sys_id>
         <sys_mod_count>29</sys_mod_count>

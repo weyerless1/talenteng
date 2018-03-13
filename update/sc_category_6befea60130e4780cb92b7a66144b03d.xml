@@ -17,22 +17,22 @@
         <order>0</order>
         <parent/>
         <roles/>
-        <sc_catalog display_value="Talent Engagement">62af2a60130e4780cb92b7a66144b045</sc_catalog>
+        <sc_catalog display_value="Associate Engagement">62af2a60130e4780cb92b7a66144b045</sc_catalog>
         <show_in_cms>false</show_in_cms>
         <sys_class_name>sc_category</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-10-23 14:26:04</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>6befea60130e4780cb92b7a66144b03d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Talent Engagement</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Associate Engagement</sys_name>
         <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
         <sys_update_name>sc_category_6befea60130e4780cb92b7a66144b03d</sys_update_name>
-        <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2017-10-27 17:44:37</sys_updated_on>
-        <title>Talent Engagement</title>
+        <sys_updated_by>rsKatz</sys_updated_by>
+        <sys_updated_on>2018-03-12 18:30:47</sys_updated_on>
+        <title>Associate Engagement</title>
     </sc_category>
 </record_update>

@@ -13,7 +13,7 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-10-27 15:19:04</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>86a22bf113ce0b80cb92b7a66144b025</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_ahho_talent_eng_question</sys_name>

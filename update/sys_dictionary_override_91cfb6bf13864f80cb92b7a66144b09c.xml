@@ -22,7 +22,7 @@
         <sys_class_name>sys_dictionary_override</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-11-02 17:54:40</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>91cfb6bf13864f80cb92b7a66144b09c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>state</sys_name>

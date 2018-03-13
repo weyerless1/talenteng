@@ -45,7 +45,7 @@ function sortList( collectorName )
         <sys_class_name>catalog_script_client</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-11-30 15:21:32</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>b198e67813fe8700d80074c66144b0e1</sys_id>
         <sys_mod_count>1</sys_mod_count>

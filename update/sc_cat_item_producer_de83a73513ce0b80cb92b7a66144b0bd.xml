@@ -5,13 +5,13 @@
         <availability>on_both</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
-        <category display_value="Talent Engagement">6befea60130e4780cb92b7a66144b03d</category>
+        <category display_value="Associate Engagement">6befea60130e4780cb92b7a66144b03d</category>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan/>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
-        <description><![CDATA[<p><span style="text-align: left; font-size: 12pt;"><span style="text-align: start;">Talent Engagement provides associate engagement, recognition, and internal communications development, consulting and collaboration.</span></span></p>
+        <description><![CDATA[<p><span style="text-align: left; font-size: 12pt;"><span style="text-align: start;">Associate Engagement provides associate engagement, recognition, and internal communications development, consulting and collaboration.</span></span></p>
 <p>&nbsp;</p>
 <p><span style="font-size: 12pt;">Please use this form to submit any questions you have regarding our services.&nbsp;</span></p>]]></description>
         <entitlement_script/>
@@ -56,15 +56,15 @@ producer.redirect = "catalog_home.do?sysparm_catalog=";]]></script>
         <sys_created_on>2017-10-27 15:22:55</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>de83a73513ce0b80cb92b7a66144b0bd</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Question</sys_name>
         <sys_package display_value="Talent Engagement" source="x_ahho_talent_eng">2be3ae171331c380cb92b7a66144b081</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Talent Engagement">2be3ae171331c380cb92b7a66144b081</sys_scope>
         <sys_update_name>sc_cat_item_producer_de83a73513ce0b80cb92b7a66144b0bd</sys_update_name>
-        <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2017-12-04 17:46:06</sys_updated_on>
+        <sys_updated_by>rsKatz</sys_updated_by>
+        <sys_updated_on>2018-03-12 18:29:29</sys_updated_on>
         <table_name>x_ahho_talent_eng_question</table_name>
         <template/>
         <type>item</type>

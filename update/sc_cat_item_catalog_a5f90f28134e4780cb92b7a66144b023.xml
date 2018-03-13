@@ -2,11 +2,11 @@
 <record_update table="sc_cat_item_catalog">
     <sc_cat_item_catalog action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Associate Communication">5e323224130e4780cb92b7a66144b02c</sc_cat_item>
-        <sc_catalog display_value="Talent Engagement">62af2a60130e4780cb92b7a66144b045</sc_catalog>
+        <sc_catalog display_value="Associate Engagement">62af2a60130e4780cb92b7a66144b045</sc_catalog>
         <sys_class_name>sc_cat_item_catalog</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-10-23 16:18:46</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a5f90f28134e4780cb92b7a66144b023</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Talent Engagement.Internal communication</sys_name>

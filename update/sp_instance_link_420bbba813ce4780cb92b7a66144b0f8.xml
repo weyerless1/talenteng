@@ -22,7 +22,7 @@
         <sys_class_name>sp_instance_link</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-10-23 19:53:09</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>420bbba813ce4780cb92b7a66144b0f8</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>Do you have a question?</sys_name>

@@ -9,7 +9,7 @@
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-10-27 17:53:40</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>01064c4e13024b80cb92b7a66144b007</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>communication_channel_other</sys_name>

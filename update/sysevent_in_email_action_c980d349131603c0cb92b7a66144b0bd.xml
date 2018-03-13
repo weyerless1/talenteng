@@ -51,7 +51,7 @@ if (current.getTableName() == "x_ahho_talent_eng_comm_request") {
         <sys_class_name>sysevent_in_email_action</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-11-06 16:39:35</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>c980d349131603c0cb92b7a66144b0bd</sys_id>
         <sys_mod_count>5</sys_mod_count>

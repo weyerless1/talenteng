@@ -13,7 +13,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-10-19 16:20:12</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>63e3ee971331c380cb92b7a66144b034</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_ahho_talent_eng.user</sys_name>

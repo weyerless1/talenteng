@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-11-29 15:55:44</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a577a9e413f28700cb92b7a66144b0cb</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>primary_contact</sys_name>
